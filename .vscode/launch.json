@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Spring Boot-GatewayBackendApplication<gateway-backend>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"console": "internalConsole",
+			"mainClass": "com.logicalenigma.springboot.gatewaybackend.GatewayBackendApplication",
+			"projectName": "gateway-backend",
+			"args": ""
+		}
+	]
+}
